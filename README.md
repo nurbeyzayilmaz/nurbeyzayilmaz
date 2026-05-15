@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/nur-beyza-yilmaz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:02220215050@ogr.inonu.edu.tr"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://enerjitakipsistemi.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+  <a href="https://enerjitakipsistemi.netlify.app"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 </p>
 
 ---
@@ -58,12 +58,25 @@ Gömülü sistemler, IoT ve endüstriyel otomasyon alanlarında çalışıyorum.
 Gerçek dünyada çalışan, uçtan uca bir IoT enerji yönetim sistemi.
 
 - 🔌 **PZEM-004T v3.0** ile gerçek zamanlı voltaj, akım, güç (W) ve enerji (kWh) ölçümü
-- 📡 **Modbus RTU** tabanlı güç sensörü haberleşmesi (ESP8266 üzerinde)
+- 📡 **Modbus RTU** tabanlı güç sensörü haberleşmesi (ESP8266 NodeMCU üzerinde)
 - 📱 **Blynk IoT** platformu ile mobil röle kontrolü, eşik bildirimi, tahmini fatura
 - ⚙️ **Aktif-LOW röle modülü** ile aşırı yük koruması ve otomatik devre kesme
 - 📊 **Next.js + Supabase** web dashboard — anlık ve geçmiş veri görselleştirme
 
 🔗 **Canlı Demo:** [enerjitakipsistemi.netlify.app](https://enerjitakipsistemi.netlify.app)
+
+---
+
+#### 🔩 Fiziksel Prototip — Donanım Kurulumu
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nurbeyzayilmaz/nurbeyzayilmaz/main/docs/prototype-overview.jpeg" width="49%" alt="Prototip Genel Görünüm"/>
+  <img src="https://raw.githubusercontent.com/nurbeyzayilmaz/nurbeyzayilmaz/main/docs/prototype-closeup.jpeg" width="49%" alt="Prototip Yakın Plan"/>
+</p>
+
+*Ahşap kutu içine monte edilmiş sistem: ESP8266 NodeMCU (ortada), PZEM-004T v3.0 güç sensörü (sağ, yeşil kart), Aktif-LOW SRD-05VDC röle modülü (sol, mavi kart), breadboard bağlantıları ve 220V AC giriş kablolaması*
+
+---
 
 #### 📸 Blynk Web Dashboard — Canlı Sistem
 
