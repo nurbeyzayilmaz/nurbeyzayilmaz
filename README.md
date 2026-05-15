@@ -65,6 +65,18 @@ Gerçek dünyada çalışan, uçtan uca bir IoT enerji yönetim sistemi.
 
 🔗 **Canlı Demo:** [enerjitakipsistemi.netlify.app](https://enerjitakipsistemi.netlify.app)
 
+#### 📸 Blynk Web Dashboard — Canlı Sistem
+
+![Blynk Web Dashboard](https://raw.githubusercontent.com/nurbeyzayilmaz/nurbeyzayilmaz/main/docs/blynk-dashboard.png)
+
+*Gerçek zamanlı akım (V3), voltaj (V2), güç-W (V4), enerji-kWh (V7) ölçümleri ve tahmini fatura görünümü*
+
+#### 📋 Blynk Datastreams Konfigürasyonu
+
+![Blynk Datastreams](https://raw.githubusercontent.com/nurbeyzayilmaz/nurbeyzayilmaz/main/docs/blynk-datastreams.png)
+
+*Modbus RTU üzerinden ESP8266'dan toplanan 14 veri akışı: akım, voltaj, güç, enerji, frekans, güç faktörü, röle kontrolü, LED, buton, öneri mesajı, tahmini fatura, WiFi sinyali, uptime*
+
 ---
 
 ## 👥 Topluluklar
